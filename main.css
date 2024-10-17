@@ -1,7 +1,14 @@
 /*
 * Author: Jovoni Johnson
-* Purpose: LectureActivity1 Assignment
+* Purpose:  Assignment
 */
 body{
     background-color: aqua;
+}
+.bolded_font {
+    font-weight: bold;
+}
+
+p:hover {
+    color: brown;
 }
